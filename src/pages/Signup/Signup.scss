@@ -1,0 +1,138 @@
+.Signup {
+  box-sizing: border-box;
+  background-color: rgba(var(--b3f, 250, 250, 250), 1);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .SignupBox {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
+    width: 350px;
+    padding: 35px 45px;
+
+    .signupHeader {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      img {
+        margin-bottom: 10px;
+      }
+
+      h3 {
+        text-align: center;
+        font-size: 17px;
+        color: #8e8e8e;
+      }
+
+      .boxLine {
+        display: flex;
+        align-items: center;
+        margin: 13px 0;
+        .letfLine {
+          width: 100px;
+          hr {
+            border: 0.5px solid #cdced0;
+          }
+        }
+
+        p {
+          color: #8e8e8e;
+          font-weight: bold;
+          font-size: 13px;
+          margin: 0 14px;
+        }
+        .rightLine {
+          width: 100px;
+          hr {
+            border: 0.5px solid #cdced0;
+          }
+        }
+      }
+    }
+    .signupContent {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      input {
+        font-weight: 400;
+        opacity: 0.7;
+        outline: none;
+      }
+
+      .userId {
+        background-color: rgba(var(--b3f, 250, 250, 250), 1);
+        margin-bottom: 7px;
+        padding: 10px 8px;
+        border-radius: 4px;
+        border: 1px solid #cdced0;
+        font-size: 12px;
+      }
+      .myName {
+        background-color: rgba(var(--b3f, 250, 250, 250), 1);
+        margin-bottom: 7px;
+        padding: 10px 8px;
+        border-radius: 4px;
+        border: 1px solid #cdced0;
+        font-size: 12px;
+      }
+      .userName {
+        background-color: rgba(var(--b3f, 250, 250, 250), 1);
+        margin-bottom: 7px;
+        padding: 10px 8px;
+        border-radius: 4px;
+        border: 1px solid #cdced0;
+        font-size: 12px;
+      }
+      .userPw {
+        background-color: rgba(var(--b3f, 250, 250, 250), 1);
+        margin-bottom: 12px;
+        padding: 10px 8px;
+        border-radius: 4px;
+        border: 1px solid #cdced0;
+        font-size: 12px;
+      }
+      .loginBtn {
+        background-color: rgba(var(--b3f, 250, 250, 250), 1);
+        margin-bottom: 12px;
+        padding: 4px 8px;
+        border-radius: 4px;
+        border: 1px solid #b2dffc;
+        background-color: #b2dffc;
+        color: white;
+        font-weight: bold;
+        font-size: 14px;
+        outline: none;
+      }
+      p {
+        font-size: 12px;
+        text-align: center;
+        color: #8e8e8e;
+      }
+    }
+  }
+  .toLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    background-color: white;
+    margin-top: 10px;
+    width: 350px;
+    padding: 25px;
+    border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
+    .LoginBtn {
+      color: #0095f6;
+      text-decoration: none;
+      margin-left: 3px;
+    }
+  }
+}

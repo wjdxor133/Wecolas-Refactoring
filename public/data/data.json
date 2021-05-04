@@ -1,0 +1,91 @@
+{
+  "user": {
+    "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/25007874_506309469752451_193908878537129984_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=XMM_2RrVARwAX_VyBRV&edm=AIQHJ4wBAAAA&ccb=7-4&oh=2e42d453ab8cf89be36e2aedd5f7227c&oe=60B4BC76&_nc_sid=7b02f1",
+    "user_id": "ljteak2",
+    "user_name": "정택"
+  },
+  "posts": [
+    {
+      "user_id": "ljteak2",
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/25007874_506309469752451_193908878537129984_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=XMM_2RrVARwAX_VyBRV&edm=AIQHJ4wBAAAA&ccb=7-4&oh=2e42d453ab8cf89be36e2aedd5f7227c&oe=60B4BC76&_nc_sid=7b02f1",
+      "post_location": "Seoul, Korea",
+      "post_img": [
+        "https://user-images.githubusercontent.com/47416686/116974074-7e8d7a00-acf8-11eb-953a-6e99d9699203.png",
+        "https://user-images.githubusercontent.com/47416686/116974074-7e8d7a00-acf8-11eb-953a-6e99d9699203.png",
+        "https://user-images.githubusercontent.com/47416686/116974074-7e8d7a00-acf8-11eb-953a-6e99d9699203.png"
+      ],
+      "post_contents": "아토믹 디자인 패턴에 대해 알아봅시다.",
+      "like": 20,
+      "comments": [
+        {
+          "user_id": "jennie__kjn",
+          "contents": "좋은 정보 감사합니다!",
+          "like": false
+        },
+        {
+          "user_id": "seonho__kim",
+          "contents": "생각보다 어렵네요 ㅠㅠ",
+          "like": false
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/126077837_951425765390460_8327381269768394617_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=KfXRDa01kQIAX_Na9wf&edm=ABfd0MgBAAAA&ccb=7-4&oh=cc2d959d6b53ee4d8e7e8b46ce12eb59&oe=60B63941&_nc_sid=7bff83",
+      "user_id": "seonho__kim"
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/27576481_2049131568677963_4485032724268056576_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=-K34G3ZYM_YAX972hb1&edm=ABfd0MgBAAAA&ccb=7-4&oh=9d02e42905f5eadd635873852bc99e64&oe=60B585E9&_nc_sid=7bff83",
+      "user_id": "sz.z.y"
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/120911233_113942167015019_7757793538086741578_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=J5zTBq0G9kAAX9-pd4B&edm=ABfd0MgBAAAA&ccb=7-4&oh=c96a241051980e6cfd4d358c8cac3873&oe=60B5EA01&_nc_sid=7bff83",
+      "user_id": "roses_are_rosie"
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/131012669_3782562831803133_6116735384546474715_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=OwBsWcqToR8AX-VeMUh&edm=ABfd0MgBAAAA&ccb=7-4&oh=f0746ed71f122106c2654490c919b438&oe=60B5B7EE&_nc_sid=7bff83",
+      "user_id": "_mariahwasa"
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/172972190_3742975682497220_6636642286633999839_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=2EBUTEL1z78AX-Y5KZD&edm=ABfd0MgBAAAA&ccb=7-4&oh=d6002f362d5cefca3f9134906d768bf0&oe=60B4EA79&_nc_sid=7bff83",
+      "user_id": "jennie__kjn"
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/10706738_374136476076259_2049819550_a.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=3XFDeyNQwE4AX-WqNpT&edm=ABfd0MgBAAAA&ccb=7-4&oh=4f65a441b5cb623a425da0b078e02ac0&oe=60B5A772&_nc_sid=7bff83",
+      "user_id": "sholyhaein"
+    }
+  ],
+  "recommendedUsers": [
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/147073474_143193454300270_8024466148855929422_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=NK9B1Ey3mawAX9d4xaj&edm=AEF8tYYBAAAA&ccb=7-4&oh=6c3cb7c2e0ff28c8c7ee5fbb86150227&oe=60B0B32C&_nc_sid=a9513d",
+      "user_id": "i_km___",
+      "user_info": "wjyeop님 외 6명이 팔로우합니다",
+      "user_following": false
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/30087261_370190073484729_2889980474392838144_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=zLkW5WjCZaoAX8j2ani&edm=AEF8tYYBAAAA&ccb=7-4&oh=b63cdc5585dade7e5cae2727219b01dc&oe=60B43342&_nc_sid=a9513d",
+      "user_id": "gobeomseog6181",
+      "user_info": "bbang_gry님 외 2명이 팔로우합니다",
+      "user_following": false
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/59335076_860209944344009_850486653700014080_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=RoLXZNF_DTUAX90qPr5&edm=AEF8tYYBAAAA&ccb=7-4&oh=128554dbd824d647052bd6f9b5eac9fb&oe=60B273CA&_nc_sid=a9513d",
+      "user_id": "yu____seung",
+      "user_info": "luke_aroundthe_world님 외 3명이 팔로우합니다",
+      "user_following": false
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/167230765_1373967982970489_6777136034714560234_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=EmbiRUIW9E0AX9pAXsD&edm=AEF8tYYBAAAA&ccb=7-4&oh=4c8072c1020b7f15b78b0c7abfa4b135&oe=60B3BA02&_nc_sid=a9513d",
+      "user_id": "gangyoubin",
+      "user_info": "whdghks1796님 외 1명이 팔로우합니다",
+      "user_following": false
+    },
+    {
+      "user_img": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/117809562_2695256450746733_7961912511475651285_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=lTDAkBCvHnIAX_xjo9s&edm=AEF8tYYBAAAA&ccb=7-4&oh=f10b04c9e12c4767c4706cfbb7a55fdf&oe=60B2E5C2&_nc_sid=a9513d",
+      "user_id": "zz_ani",
+      "user_info": "회원님을 팔로우합니다",
+      "user_following": false
+    }
+  ]
+}
