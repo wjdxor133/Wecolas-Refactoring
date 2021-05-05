@@ -13,9 +13,10 @@ import {
 const Post = ({ post }) => {
   const theme = useTheme();
 
-  const peedStyle = css`
+  const postStyle = css`
     background-color: ${theme.colors.white};
     border: 0.5px solid ${theme.colors.gray};
+    margin-bottom: 60px;
   `;
 
   const sliderWrapper = css`
@@ -31,7 +32,7 @@ const Post = ({ post }) => {
   `;
 
   return (
-    <div css={peedStyle}>
+    <div css={postStyle}>
       <PostHeader post={post} />
       <section css={sliderWrapper}>
         <SlideShow

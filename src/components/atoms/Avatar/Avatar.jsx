@@ -43,9 +43,13 @@ const Avatar = ({ src, alt, size, line }) => {
         bottom: 0;
         border-radius: 50px;
         padding: 2px;
-        background: linear-gradient(45deg, #9c20aa, #fb3570);
-        -webkit-mask: linear-gradient(#fff 0 0) content-box,
-          linear-gradient(#fff 0 0);
+        background: linear-gradient(
+          45deg,
+          ${theme.colors.purple},
+          ${theme.colors.pink}
+        );
+        -webkit-mask: linear-gradient(${theme.colors.white} 0 0) content-box,
+          linear-gradient(${theme.colors.white} 0 0);
         -webkit-mask-composite: destination-out;
         mask-composite: exclude;
       }

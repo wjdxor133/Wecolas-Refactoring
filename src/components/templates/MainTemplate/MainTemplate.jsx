@@ -1,12 +1,11 @@
 /** @jsx jsx */
 import { css, jsx } from "@emotion/core";
 import { useTheme } from "@emotion/react";
-import { UserInfoItem } from "components/molecules";
+import { UserInfoItem, Footer } from "components/molecules";
 import {
   Header,
   StoryList,
   RecommendUserList,
-  Footer,
   Post,
 } from "components/organisms";
 
