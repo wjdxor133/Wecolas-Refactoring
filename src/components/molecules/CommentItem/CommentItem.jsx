@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Label, Icon } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Label, Icon } from 'components/atoms';
 
 const CommentItem = ({ comment }) => {
   const CommentItemStyle = css`

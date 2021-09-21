@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Avatar, Label, Button } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Avatar, Label, Button } from 'components/atoms';
 
 const RecommendUserItem = ({ recommendedUser }) => {
   const recommendUserStyle = css`
@@ -35,7 +35,7 @@ const RecommendUserItem = ({ recommendedUser }) => {
           </Label>
         </div>
         <Button line="invisible" color="blue" size="small">
-          {user_following ? "팔로잉" : "팔로우"}
+          {user_following ? '팔로잉' : '팔로우'}
         </Button>
       </div>
     </div>

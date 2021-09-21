@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
 
 const Avatar = ({ src, alt, size, line }) => {
   const theme = useTheme();
@@ -35,7 +35,7 @@ const Avatar = ({ src, alt, size, line }) => {
       padding: 4px;
 
       ::before {
-        content: "";
+        content: '';
         position: absolute;
         top: 0;
         left: 0;

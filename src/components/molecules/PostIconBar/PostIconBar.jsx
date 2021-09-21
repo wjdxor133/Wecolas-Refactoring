@@ -1,13 +1,12 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Icon } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Icon } from 'components/atoms';
 
 const PostIconBar = () => {
   const postIconBarStyle = css`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding: 0 16px; */
     margin-top: 4px;
     height: 40px;
   `;

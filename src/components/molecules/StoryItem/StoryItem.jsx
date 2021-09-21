@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Avatar, Label } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Avatar, Label } from 'components/atoms';
 
 const StoryItem = ({ story }) => {
   const storyItemStyle = css`

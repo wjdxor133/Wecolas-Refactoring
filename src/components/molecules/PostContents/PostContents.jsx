@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Label } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Label } from 'components/atoms';
 
 const PostContents = () => {
   const postContentsTop = css`

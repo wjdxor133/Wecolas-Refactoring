@@ -1,7 +1,7 @@
-import React from "react";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+import React from 'react';
+import Slider from 'react-slick';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 
 const SlideShow = ({
   children,
@@ -17,8 +17,8 @@ const SlideShow = ({
         className={className}
         style={{
           ...style,
-          display: "block",
-          borderRadius: "50%",
+          display: 'block',
+          borderRadius: '50%',
           right: 5,
           zIndex: 1,
         }}
@@ -34,8 +34,8 @@ const SlideShow = ({
         className={className}
         style={{
           ...style,
-          display: "block",
-          borderRadius: "50%",
+          display: 'block',
+          borderRadius: '50%',
           left: 5,
           zIndex: 1,
           opacity: 1,

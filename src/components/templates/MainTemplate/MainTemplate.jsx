@@ -1,13 +1,13 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
-import { UserInfoItem, Footer } from "components/molecules";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
+import { UserInfoItem, Footer } from 'components/molecules';
 import {
   Header,
   StoryList,
   RecommendUserList,
   Post,
-} from "components/organisms";
+} from 'components/organisms';
 
 const MainTemplate = ({ data }) => {
   const theme = useTheme();

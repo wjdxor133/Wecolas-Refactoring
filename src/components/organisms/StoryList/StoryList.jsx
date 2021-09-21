@@ -1,8 +1,8 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
-import { SlideShow } from "components/atoms";
-import { StoryItem } from "components/molecules";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
+import { SlideShow } from 'components/atoms';
+import { StoryItem } from 'components/molecules';
 
 const StoryList = ({ stories }) => {
   const theme = useTheme();

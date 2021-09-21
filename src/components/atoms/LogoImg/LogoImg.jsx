@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/react";
-import Logo from "assets/images/logo.png";
+import { css, jsx } from '@emotion/react';
+import Logo from 'assets/images/logo.png';
 
 const LogoImg = () => {
   const logoImgStyle = css`

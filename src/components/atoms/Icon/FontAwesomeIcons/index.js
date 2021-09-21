@@ -1,4 +1,4 @@
-import { library } from "@fortawesome/fontawesome-svg-core";
+import { library } from '@fortawesome/fontawesome-svg-core';
 
 /* free */
 import {
@@ -9,7 +9,7 @@ import {
   faChevronCircleLeft,
   faChevronCircleRight,
   faTimesCircle,
-} from "@fortawesome/free-solid-svg-icons";
+} from '@fortawesome/free-solid-svg-icons';
 
 import {
   faHeart as faHeartRegular,
@@ -18,7 +18,7 @@ import {
   faCompass,
   faBookmark,
   faSmile,
-} from "@fortawesome/free-regular-svg-icons";
+} from '@fortawesome/free-regular-svg-icons';
 
 library.add(
   faSearch,
@@ -33,5 +33,5 @@ library.add(
   faCompass,
   faTimesCircle,
   faBookmark,
-  faSmile
+  faSmile,
 );

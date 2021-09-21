@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
 
 const Label = ({ children, color, size, thick, cursor, length }) => {
   const theme = useTheme();

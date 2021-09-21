@@ -1,14 +1,14 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
-import { Img, Label, SlideShow } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
+import { Img, Label, SlideShow } from 'components/atoms';
 import {
   PostHeader,
   PostContents,
   PostIconBar,
   CommentItem,
   SendComment,
-} from "components/molecules";
+} from 'components/molecules';
 
 const Post = ({ post }) => {
   const theme = useTheme();

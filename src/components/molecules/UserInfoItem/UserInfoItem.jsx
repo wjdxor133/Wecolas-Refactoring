@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Avatar, Label, Button } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Avatar, Label, Button } from 'components/atoms';
 
 const UserInfoItem = ({ user, avatarSize }) => {
   const userInfoItemStyle = css`

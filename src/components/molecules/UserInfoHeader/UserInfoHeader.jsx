@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { Label, Button } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { Label, Button } from 'components/atoms';
 
 const UserInfoHeader = () => {
   const userInfoHeaderStyle = css`

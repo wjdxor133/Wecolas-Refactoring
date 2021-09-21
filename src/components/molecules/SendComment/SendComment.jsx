@@ -1,8 +1,8 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
-import { Icon, Input, Button } from "components/atoms";
-import useInput from "hooks/useInput";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
+import { Icon, Input, Button } from 'components/atoms';
+import useInput from 'hooks/useInput';
 
 const SendComment = () => {
   const theme = useTheme();
@@ -38,7 +38,7 @@ const SendComment = () => {
         <Button
           line="invisible"
           color="blue"
-          state={commentValue === "" && "disabled"}
+          state={commentValue === '' && 'disabled'}
         >
           게시
         </Button>

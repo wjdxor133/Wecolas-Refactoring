@@ -1,7 +1,7 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import "./FontAwesomeIcons";
+import { css, jsx } from '@emotion/core';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import './FontAwesomeIcons';
 
 const Icon = ({ type, name, size, color, cursor, onClick }) => {
   const iconStyle = {
@@ -12,7 +12,7 @@ const Icon = ({ type, name, size, color, cursor, onClick }) => {
   return (
     <FontAwesomeIcon
       icon={[`${type}`, `${name}`]}
-      size={`${size ? size : "1x"}`}
+      size={`${size ? size : '1x'}`}
       color={color}
       css={iconStyle[cursor]}
       onClick={onClick}

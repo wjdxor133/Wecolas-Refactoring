@@ -1,7 +1,7 @@
 /** @jsx jsx */
-import { css, jsx } from "@emotion/core";
-import { useTheme } from "@emotion/react";
-import { Avatar, Label, Icon } from "components/atoms";
+import { css, jsx } from '@emotion/core';
+import { useTheme } from '@emotion/react';
+import { Avatar, Label, Icon } from 'components/atoms';
 
 const PostHeader = ({ post }) => {
   const theme = useTheme();
